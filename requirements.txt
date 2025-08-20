@@ -18,6 +18,5 @@ safetensors==0.4.2
 PyYAML==6.0.1
 tensorboard==2.14.0
 # nuplan-devkit==1.2.0
-nuplan-devkit
 pyquaternion==0.9.9
 shapely==1.8.5
